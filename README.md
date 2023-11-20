@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently studying **frontend development course at TripleTen**
 
-- 🤝 I’m looking for help with [Improvement for my portfolio developed with Wordpress](https://dmndesign.co.il/)
-
 - 👨‍💻 All of my projects are available at [https://dmndesign.co.il/](https://dmndesign.co.il/)
 
 - 💬 Couple of my current skills **Wordpress, CSS, HTML, Figma, JavaScript, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro**

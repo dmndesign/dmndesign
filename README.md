@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitriy Naumov.</h1>
-<h3 align="center">A passionate and engaged frontend developer, media designer from Israel.</h3>
+<h3 align="center">A passionate and engaged frontend developer, web designer from Israel.</h3>
 
 - 🔭 I’m currently working on [Around The Us (TripleTen course project)](https://github.com/dmndesign/se_project_aroundtheus)
 

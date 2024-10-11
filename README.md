@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dmndesign.co.il/](https://dmndesign.co.il/)
 
-- 💬 Couple of my current skills **Wordpress, CSS, HTML, Figma, JavaScript, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro**
+- 💬 Couple of my current skills **Wordpress, CSS, HTML, Figma, JavaScript, React, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro**
 
 - 📫 How to reach me **dnaumov909@gmail.com**
 

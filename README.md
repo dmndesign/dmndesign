@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dmitriy Naumov.</h1>
 <h3 align="center">A passionate and engaged frontend developer, web designer from Israel.</h3>
 
-- 🔭 I’m currently working on [Around The Us (TripleTen course project)](https://github.com/dmndesign/se_project_aroundtheus)
+- 🔭 I’m currently working in [https://morevision.ai](https://morevision.ai)
 
-- 🌱 I’m currently studying **frontend development course at TripleTen**
+- 🌱 I’m currently studying **frontend development course at TripleTen** 
 
 - 👨‍💻 All of my projects are available at [https://dmndesign.co.il/](https://dmndesign.co.il/)
 
